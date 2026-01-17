@@ -19,7 +19,7 @@ Software Engineer
 
 <b>My GitHub Stats</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=denizberkeozsoy&show_icons=true&count_private=true&theme=default" alt="GitHub Statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=denizberkeozsoy/denizberkeozsoy&show_icons=true&count_private=true&theme=default" alt="GitHub Statistics" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizberkeozsoy&layout=compact&theme=default" alt="Top Languages" />
 
