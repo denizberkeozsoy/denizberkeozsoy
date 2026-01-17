@@ -18,13 +18,14 @@ Software Engineer
 ### My GitHub Stats
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=denizberkeozsoy&theme=default" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=denizberkeozsoy&theme=default" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=denizberkeozsoy&theme=default" alt="Top Languages" />
 </p>
 
-<p>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=denizberkeozsoy&theme=default" alt="GitHub Streak" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=denizberkeozsoy&theme=default&utcOffset=3" alt="Productive Time" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denizberkeozsoy&theme=default" alt="Profile Details" />
+
 
 
 
