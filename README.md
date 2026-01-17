@@ -17,14 +17,15 @@ Software Engineer
 
 ### My GitHub Stats
 
-<!-- GitHub Streak (working host) -->
-<img src="https://streak-stats.demolab.com?user=denizberkeozsoy&theme=default" alt="GitHub Streak" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=denizberkeozsoy&theme=default" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=denizberkeozsoy&theme=default" alt="Top Languages" />
+</p>
 
-<!-- GitHub Stats (alternative provider) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=denizberkeozsoy&theme=default" alt="GitHub Stats" />
+<p>
+  <img src="https://streak-stats.demolab.com?user=denizberkeozsoy&theme=default" alt="GitHub Streak" />
+</p>
 
-<!-- Top Languages (alternative provider) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=denizberkeozsoy&theme=default" alt="Top Languages" />
 
 
 
