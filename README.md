@@ -23,7 +23,7 @@ Software Engineer
 </p>
 
 <p>
-   <img src="https://streak-stats.demolab.com/?user=denizberkeozsoy&theme=default&type=svg" alt="GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=denizberkeozsoy&theme=default" alt="GitHub Streak" />
 </p>
 
 
